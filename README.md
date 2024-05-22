@@ -1,2 +1,2 @@
-# PHP_NFO
+# PHP_information  server  
 Php information 
